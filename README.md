@@ -8,10 +8,6 @@ El repositorio está estructurado en varias carpetas y archivos, cada uno de los
 
 - Notebooks: Contiene varios Jupyter notebooks que explican detalladamente el proceso de preparación de datos, entrenamiento de modelos y evaluación de resultados. Entre los notebooks destacados se encuentran aquellos que tratan la optimización de conjuntos de entrenamiento, la construcción de modelos basados en transformers como BERT y RoBERTa.
 
-- Enmsemble: Contiene el script utilizado para realizar los ensemble de los modelos obtenidos por anotador.
-
-- Modelos Guardados: Carpeta donde se almacenan los modelos entrenados durante el desarrollo del proyecto, permitiendo su reutilización y evaluación posterior sin necesidad de reentrenamiento.
-
 - Conjuntos de Datos: Contiene los conjuntos de datos utilizados para el entrenamiento y la evaluación de los modelos, así como scripts para su preprocesamiento.
 
 - Predicciones: Carpeta donde se almacenan las predicciones de los diferentes modelos.
