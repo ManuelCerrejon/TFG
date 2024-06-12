@@ -1,0 +1,10 @@
+Estudio de Hiperparámetros. Búsqueda: exhaustiva, Modelo: roberta
+
+Iteración: 0, Valor: 0.8627195508977348, HP: {'per_device_train_batch_size': 32, 'learning_rate': 3e-05, 'weight_decay': 0.01}, Mejor: 0
+Iteración: 1, Valor: 0.8451947382826965, HP: {'per_device_train_batch_size': 16, 'learning_rate': 5e-05, 'weight_decay': 0.1}, Mejor: 0
+Iteración: 2, Valor: 0.8544560462368682, HP: {'per_device_train_batch_size': 16, 'learning_rate': 3e-05, 'weight_decay': 0.1}, Mejor: 0
+Iteración: 3, Valor: 0.8618415849414742, HP: {'per_device_train_batch_size': 32, 'learning_rate': 3e-05, 'weight_decay': 0.1}, Mejor: 0
+Iteración: 4, Valor: 0.8537779499695237, HP: {'per_device_train_batch_size': 32, 'learning_rate': 5e-05, 'weight_decay': 0.01}, Mejor: 0
+Iteración: 5, Valor: 0.8529631289502453, HP: {'per_device_train_batch_size': 16, 'learning_rate': 3e-05, 'weight_decay': 0.01}, Mejor: 0
+Iteración: 6, Valor: 0.862422351076502, HP: {'per_device_train_batch_size': 32, 'learning_rate': 5e-05, 'weight_decay': 0.1}, Mejor: 0
+Iteración: 7, Valor: 0.8513416482727442, HP: {'per_device_train_batch_size': 16, 'learning_rate': 5e-05, 'weight_decay': 0.01}, Mejor: 0

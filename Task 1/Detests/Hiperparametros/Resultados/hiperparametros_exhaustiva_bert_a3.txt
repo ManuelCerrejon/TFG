@@ -1,0 +1,10 @@
+Estudio de Hiperparámetros. Búsqueda: exhaustiva, Modelo: bert_a3
+
+Iteración: 0, Valor: 0.789005419104365, HP: {'per_device_train_batch_size': 16, 'learning_rate': 3e-05, 'weight_decay': 0.1}, Mejor: 0
+Iteración: 1, Valor: 0.8128420599008834, HP: {'per_device_train_batch_size': 32, 'learning_rate': 5e-05, 'weight_decay': 0.1}, Mejor: 1
+Iteración: 2, Valor: 0.7994582532452144, HP: {'per_device_train_batch_size': 16, 'learning_rate': 5e-05, 'weight_decay': 0.01}, Mejor: 1
+Iteración: 3, Valor: 0.8001932131612259, HP: {'per_device_train_batch_size': 16, 'learning_rate': 3e-05, 'weight_decay': 0.01}, Mejor: 1
+Iteración: 4, Valor: 0.809635444299946, HP: {'per_device_train_batch_size': 32, 'learning_rate': 3e-05, 'weight_decay': 0.1}, Mejor: 1
+Iteración: 5, Valor: 0.809635444299946, HP: {'per_device_train_batch_size': 32, 'learning_rate': 3e-05, 'weight_decay': 0.01}, Mejor: 1
+Iteración: 6, Valor: 0.8086574159403881, HP: {'per_device_train_batch_size': 16, 'learning_rate': 5e-05, 'weight_decay': 0.1}, Mejor: 1
+Iteración: 7, Valor: 0.7991163022757682, HP: {'per_device_train_batch_size': 32, 'learning_rate': 5e-05, 'weight_decay': 0.01}, Mejor: 1

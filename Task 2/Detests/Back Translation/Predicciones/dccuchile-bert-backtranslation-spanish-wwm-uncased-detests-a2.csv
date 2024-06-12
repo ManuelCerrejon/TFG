@@ -1,0 +1,137 @@
+id,label,labels,label_pred,pred_stereotype
+d_2001_01,0,0,1,stereotype
+d_2216_01,0,0,1,stereotype
+d_677_01,1,1,0,not stereotype
+d_1696_04,0,0,0,not stereotype
+d_1967_02,1,1,1,stereotype
+d_2404_01,0,0,0,not stereotype
+d_1389_02,1,1,0,not stereotype
+d_1695_01,1,1,0,not stereotype
+d_893_01,1,1,0,not stereotype
+d_839_02,1,1,1,stereotype
+d_2288_01,1,1,1,stereotype
+d_1118_03,1,1,1,stereotype
+d_1056_03,1,1,1,stereotype
+d_2291_02,0,0,0,not stereotype
+d_2001_05,1,1,0,not stereotype
+d_1173_02,1,1,0,not stereotype
+d_2048_02,1,1,0,not stereotype
+d_589_06,0,0,0,not stereotype
+d_667_01,1,1,1,stereotype
+d_1958_02,1,1,0,not stereotype
+d_313_01,1,1,1,stereotype
+d_226_02,0,0,1,stereotype
+d_565_02,1,1,0,not stereotype
+d_267_01,1,1,1,stereotype
+d_1704_01,0,0,1,stereotype
+d_1396_05,0,0,1,stereotype
+d_1558_02,0,0,0,not stereotype
+d_2055_02,1,1,0,not stereotype
+d_2039_01,0,0,0,not stereotype
+d_2035_02,0,0,0,not stereotype
+d_689_01,0,0,0,not stereotype
+d_613_02,1,1,1,stereotype
+d_12_02,1,1,0,not stereotype
+d_2454_02,1,1,0,not stereotype
+d_1844_01,1,1,1,stereotype
+d_1581_04,1,1,0,not stereotype
+d_2281_02,1,1,1,stereotype
+d_1045_01,1,1,1,stereotype
+d_1435_02,1,1,1,stereotype
+d_1656_01,0,0,1,stereotype
+d_483_01,1,1,1,stereotype
+d_2515_04,0,0,1,stereotype
+d_1316_04,1,1,0,not stereotype
+d_1205_02,1,1,1,stereotype
+d_2206_01,1,1,1,stereotype
+d_1212_02,1,1,0,not stereotype
+d_2216_02,0,0,0,not stereotype
+d_1118_01,1,1,1,stereotype
+d_2207_01,0,0,0,not stereotype
+d_840_01,0,0,0,not stereotype
+d_2375_01,1,1,1,stereotype
+d_1940_01,1,1,1,stereotype
+d_1019_01,1,1,0,not stereotype
+d_1053_01,1,1,0,not stereotype
+d_216_01,1,1,1,stereotype
+d_945_02,1,1,1,stereotype
+d_156_01,1,1,0,not stereotype
+d_1164_02,1,1,1,stereotype
+d_450_02,0,0,1,stereotype
+d_1667_01,0,0,0,not stereotype
+d_1982_01,1,1,1,stereotype
+d_1905_01,1,1,1,stereotype
+d_475_01,0,0,1,stereotype
+d_1568_01,1,1,1,stereotype
+d_1885_02,1,1,1,stereotype
+d_2055_01,1,1,0,not stereotype
+d_1769_01,0,0,0,not stereotype
+d_2036_01,1,1,0,not stereotype
+d_1984_01,1,1,1,stereotype
+d_614_02,0,0,0,not stereotype
+d_2215_02,0,0,0,not stereotype
+d_1463_01,0,0,0,not stereotype
+d_678_02,1,1,0,not stereotype
+d_881_01,0,0,1,stereotype
+d_1069_01,0,0,0,not stereotype
+d_1659_01,1,1,1,stereotype
+d_1198_02,1,1,0,not stereotype
+d_1189_16,1,1,1,stereotype
+d_2373_01,1,1,1,stereotype
+d_2111_05,0,0,0,not stereotype
+d_654_01,1,1,0,not stereotype
+d_313_02,0,0,1,stereotype
+d_1157_01,0,0,1,stereotype
+d_2060_03,0,0,0,not stereotype
+d_762_04,0,0,0,not stereotype
+d_466_01,0,0,0,not stereotype
+d_2064_02,1,1,0,not stereotype
+d_1155_01,1,1,1,stereotype
+d_2462_02,0,0,1,stereotype
+d_1342_03,0,0,1,stereotype
+d_1313_01,1,1,1,stereotype
+d_2297_01,0,0,1,stereotype
+d_1826_02,0,0,0,not stereotype
+d_2132_02,1,1,1,stereotype
+d_652_02,1,1,0,not stereotype
+d_2323_01,0,0,1,stereotype
+d_1766_02,1,1,1,stereotype
+d_1776_02,1,1,0,not stereotype
+d_1464_04,0,0,1,stereotype
+d_1118_06,1,1,1,stereotype
+d_1021_02,0,0,0,not stereotype
+d_585_01,1,1,0,not stereotype
+d_2042_02,1,1,1,stereotype
+d_381_01,0,0,1,stereotype
+d_1799_02,1,1,0,not stereotype
+d_2061_03,0,0,1,stereotype
+d_1145_01,0,0,0,not stereotype
+d_2171_01,1,1,0,not stereotype
+d_814_02,0,0,0,not stereotype
+d_2418_01,1,1,1,stereotype
+d_2116_01,1,1,0,not stereotype
+d_2221_04,0,0,1,stereotype
+d_23_02,1,1,1,stereotype
+d_1672_04,0,0,0,not stereotype
+d_2540_01,0,0,0,not stereotype
+d_1646_01,0,0,1,stereotype
+d_1888_01,1,1,0,not stereotype
+d_653_07,1,1,1,stereotype
+d_407_01,1,1,1,stereotype
+d_1690_01,0,0,0,not stereotype
+d_797_01,1,1,0,not stereotype
+d_482_01,0,0,0,not stereotype
+d_595_02,1,1,0,not stereotype
+d_2066_02,0,0,1,stereotype
+d_2047_02,0,0,0,not stereotype
+d_598_05,0,0,1,stereotype
+d_1170_01,1,1,1,stereotype
+d_2353_05,0,0,1,stereotype
+d_1189_08,1,1,0,not stereotype
+d_1473_01,1,1,1,stereotype
+d_1120_01,1,1,0,not stereotype
+d_1035_01,0,0,1,stereotype
+d_1922_01,0,0,1,stereotype
+d_455_03,0,0,0,not stereotype
+d_1147_01,1,1,0,not stereotype
+d_568_03,0,0,1,stereotype

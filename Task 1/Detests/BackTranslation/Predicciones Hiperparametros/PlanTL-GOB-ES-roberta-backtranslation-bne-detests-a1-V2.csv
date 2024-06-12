@@ -1,0 +1,564 @@
+id,label,labels,label_pred,pred_stereotype
+d_2001_01,1,1,0,not stereotype
+d_849_01,0,0,0,not stereotype
+d_2129_01,0,0,0,not stereotype
+d_836_03,0,0,0,not stereotype
+d_2216_01,1,1,0,not stereotype
+d_1562_02,0,0,0,not stereotype
+d_2217_02,0,0,0,not stereotype
+d_80_02,0,0,0,not stereotype
+d_2038_04,0,0,0,not stereotype
+d_2381_01,0,0,0,not stereotype
+d_44_02,0,0,0,not stereotype
+d_2436_01,0,0,0,not stereotype
+d_2343_02,0,0,0,not stereotype
+d_655_03,0,0,1,stereotype
+d_1355_03,0,0,0,not stereotype
+d_768_04,0,0,0,not stereotype
+d_1360_05,0,0,0,not stereotype
+d_677_01,1,1,1,stereotype
+d_556_03,0,0,0,not stereotype
+d_2208_04,0,0,0,not stereotype
+d_790_01,0,0,0,not stereotype
+d_76_07,1,1,0,not stereotype
+d_1696_04,1,1,0,not stereotype
+d_952_01,0,0,0,not stereotype
+d_2332_03,0,0,0,not stereotype
+d_2156_01,0,0,0,not stereotype
+d_111_02,0,0,0,not stereotype
+d_1150_01,0,0,0,not stereotype
+d_1967_02,1,1,0,not stereotype
+d_1450_01,0,0,0,not stereotype
+d_2489_02,1,1,0,not stereotype
+d_2344_01,0,0,0,not stereotype
+d_2404_01,1,1,1,stereotype
+d_1203_01,0,0,0,not stereotype
+d_1389_02,1,1,0,not stereotype
+d_2075_04,0,0,0,not stereotype
+d_1695_01,1,1,1,stereotype
+d_2334_02,0,0,1,stereotype
+d_805_05,0,0,0,not stereotype
+d_2103_03,0,0,0,not stereotype
+d_893_01,1,1,1,stereotype
+d_839_02,1,1,0,not stereotype
+d_762_03,0,0,0,not stereotype
+d_2392_02,0,0,0,not stereotype
+d_2389_01,0,0,0,not stereotype
+d_678_01,0,0,0,not stereotype
+d_2288_01,1,1,0,not stereotype
+d_1118_03,1,1,1,stereotype
+d_2414_05,0,0,0,not stereotype
+d_2482_03,1,1,1,stereotype
+d_614_05,0,0,0,not stereotype
+d_1056_03,1,1,1,stereotype
+d_994_01,0,0,0,not stereotype
+d_869_03,0,0,0,not stereotype
+d_2285_01,0,0,0,not stereotype
+d_627_04,0,0,0,not stereotype
+d_1647_01,0,0,0,not stereotype
+d_2291_02,1,1,1,stereotype
+d_2001_05,1,1,1,stereotype
+d_1173_02,1,1,1,stereotype
+d_1750_01,0,0,0,not stereotype
+d_1780_01,0,0,0,not stereotype
+d_2048_02,1,1,0,not stereotype
+d_1846_01,0,0,0,not stereotype
+d_2045_03,0,0,1,stereotype
+d_1318_02,0,0,0,not stereotype
+d_1898_02,0,0,0,not stereotype
+d_800_03,0,0,1,stereotype
+d_618_03,0,0,0,not stereotype
+d_1353_03,0,0,0,not stereotype
+d_1664_02,0,0,0,not stereotype
+d_293_02,0,0,0,not stereotype
+d_1056_02,0,0,1,stereotype
+d_1638_06,0,0,0,not stereotype
+d_184_02,0,0,0,not stereotype
+d_1832_01,0,0,0,not stereotype
+d_1880_01,0,0,0,not stereotype
+d_589_06,1,1,1,stereotype
+d_590_01,0,0,0,not stereotype
+d_667_01,1,1,1,stereotype
+d_1336_01,0,0,0,not stereotype
+d_809_05,0,0,1,stereotype
+d_594_02,0,0,0,not stereotype
+d_2508_02,0,0,1,stereotype
+d_857_03,0,0,0,not stereotype
+d_299_01,0,0,0,not stereotype
+d_2009_06,0,0,0,not stereotype
+d_839_01,0,0,0,not stereotype
+d_1958_02,1,1,0,not stereotype
+d_1603_02,0,0,0,not stereotype
+d_1721_04,0,0,0,not stereotype
+d_313_01,1,1,1,stereotype
+d_1464_03,0,0,0,not stereotype
+d_47_06,0,0,0,not stereotype
+d_1725_01,0,0,0,not stereotype
+d_226_02,1,1,1,stereotype
+d_565_02,1,1,0,not stereotype
+d_267_01,1,1,1,stereotype
+d_2103_05,0,0,0,not stereotype
+d_1992_01,0,0,0,not stereotype
+d_2092_02,0,0,0,not stereotype
+d_1721_01,0,0,0,not stereotype
+d_982_02,0,0,0,not stereotype
+d_940_01,0,0,0,not stereotype
+d_1119_01,0,0,0,not stereotype
+d_1467_04,0,0,0,not stereotype
+d_1301_01,0,0,0,not stereotype
+d_626_01,0,0,1,stereotype
+d_128_01,0,0,0,not stereotype
+d_1704_01,1,1,0,not stereotype
+d_1396_05,1,1,0,not stereotype
+d_172_01,0,0,0,not stereotype
+d_1297_01,0,0,0,not stereotype
+d_853_08,0,0,0,not stereotype
+d_148_03,0,0,0,not stereotype
+d_1558_02,1,1,1,stereotype
+d_2055_02,1,1,0,not stereotype
+d_1798_06,0,0,0,not stereotype
+d_1699_03,0,0,0,not stereotype
+d_554_03,0,0,0,not stereotype
+d_1850_02,0,0,0,not stereotype
+d_175_07,0,0,0,not stereotype
+d_2039_01,1,1,0,not stereotype
+d_2035_02,1,1,1,stereotype
+d_1099_03,0,0,0,not stereotype
+d_2097_02,0,0,0,not stereotype
+d_1532_01,0,0,0,not stereotype
+d_689_01,1,1,1,stereotype
+d_2025_02,0,0,0,not stereotype
+d_1502_02,0,0,0,not stereotype
+d_613_02,1,1,0,not stereotype
+d_807_03,0,0,0,not stereotype
+d_1557_03,0,0,0,not stereotype
+d_2481_04,1,1,0,not stereotype
+d_1862_01,0,0,0,not stereotype
+d_1112_01,0,0,0,not stereotype
+d_1122_04,0,0,1,stereotype
+d_1835_01,0,0,0,not stereotype
+d_1349_02,0,0,0,not stereotype
+d_1602_01,0,0,0,not stereotype
+d_1595_02,0,0,0,not stereotype
+d_1104_02,0,0,0,not stereotype
+d_242_01,0,0,0,not stereotype
+d_12_02,1,1,0,not stereotype
+d_2454_02,1,1,1,stereotype
+d_105_02,0,0,0,not stereotype
+d_916_03,0,0,0,not stereotype
+d_1212_04,1,1,1,stereotype
+d_1240_01,0,0,0,not stereotype
+d_1844_01,1,1,0,not stereotype
+d_1383_01,0,0,0,not stereotype
+d_1581_04,1,1,1,stereotype
+d_1849_03,0,0,0,not stereotype
+d_170_11,0,0,0,not stereotype
+d_2281_02,1,1,0,not stereotype
+d_1816_04,0,0,0,not stereotype
+d_1045_01,1,1,1,stereotype
+d_2044_02,0,0,1,stereotype
+d_2074_02,0,0,0,not stereotype
+d_1435_02,1,1,0,not stereotype
+d_722_02,0,0,0,not stereotype
+d_105_04,0,0,0,not stereotype
+d_1020_01,0,0,0,not stereotype
+d_2432_01,0,0,0,not stereotype
+d_1980_06,0,0,0,not stereotype
+d_1584_01,0,0,0,not stereotype
+d_741_01,0,0,0,not stereotype
+d_2445_03,0,0,0,not stereotype
+d_1656_01,1,1,1,stereotype
+d_1429_01,0,0,0,not stereotype
+d_2112_02,0,0,0,not stereotype
+d_1261_01,0,0,0,not stereotype
+d_670_03,0,0,0,not stereotype
+d_2451_01,0,0,0,not stereotype
+d_483_01,1,1,0,not stereotype
+d_445_03,0,0,0,not stereotype
+d_2515_04,1,1,0,not stereotype
+d_954_01,1,1,0,not stereotype
+d_2047_01,1,1,1,stereotype
+d_865_05,0,0,0,not stereotype
+d_978_01,0,0,1,stereotype
+d_57_02,0,0,0,not stereotype
+d_1445_02,0,0,0,not stereotype
+d_1316_04,1,1,1,stereotype
+d_1205_02,1,1,1,stereotype
+d_1436_02,0,0,0,not stereotype
+d_539_03,0,0,0,not stereotype
+d_1980_02,0,0,0,not stereotype
+d_162_03,0,0,1,stereotype
+d_324_01,0,0,0,not stereotype
+d_1711_07,0,0,0,not stereotype
+d_2118_01,0,0,0,not stereotype
+d_1655_01,0,0,1,stereotype
+d_2206_01,1,1,1,stereotype
+d_1212_02,1,1,1,stereotype
+d_2216_02,1,1,1,stereotype
+d_1118_01,1,1,1,stereotype
+d_2207_01,1,1,1,stereotype
+d_840_01,1,1,1,stereotype
+d_490_01,0,0,0,not stereotype
+d_2012_01,0,0,0,not stereotype
+d_959_01,0,0,0,not stereotype
+d_480_01,0,0,0,not stereotype
+d_1980_05,0,0,0,not stereotype
+d_2421_04,0,0,0,not stereotype
+d_677_03,0,0,0,not stereotype
+d_50_02,0,0,0,not stereotype
+d_37_04,0,0,0,not stereotype
+d_2375_01,1,1,0,not stereotype
+d_971_02,0,0,0,not stereotype
+d_1940_01,1,1,1,stereotype
+d_1019_01,1,1,1,stereotype
+d_1053_01,1,1,1,stereotype
+d_1228_02,0,0,0,not stereotype
+d_63_01,0,0,0,not stereotype
+d_621_02,0,0,0,not stereotype
+d_1932_01,0,0,0,not stereotype
+d_1392_02,0,0,0,not stereotype
+d_216_01,1,1,1,stereotype
+d_1665_01,0,0,0,not stereotype
+d_558_01,1,1,0,not stereotype
+d_166_01,0,0,0,not stereotype
+d_945_02,1,1,0,not stereotype
+d_2393_02,0,0,0,not stereotype
+d_923_01,0,0,0,not stereotype
+d_2140_01,1,1,0,not stereotype
+d_1037_01,0,0,0,not stereotype
+d_156_01,1,1,0,not stereotype
+d_1332_02,0,0,0,not stereotype
+d_48_02,0,0,0,not stereotype
+d_1490_02,0,0,0,not stereotype
+d_1164_02,1,1,0,not stereotype
+d_450_02,1,1,1,stereotype
+d_1989_01,0,0,0,not stereotype
+d_1052_01,0,0,0,not stereotype
+d_30_02,0,0,0,not stereotype
+d_2464_02,0,0,0,not stereotype
+d_1667_01,1,1,1,stereotype
+d_72_07,0,0,0,not stereotype
+d_1270_01,0,0,0,not stereotype
+d_1755_01,0,0,0,not stereotype
+d_972_11,0,0,0,not stereotype
+d_2204_05,0,0,0,not stereotype
+d_983_02,0,0,0,not stereotype
+d_1982_01,1,1,1,stereotype
+d_1900_01,0,0,0,not stereotype
+d_1128_01,0,0,0,not stereotype
+d_2541_03,0,0,0,not stereotype
+d_2063_02,0,0,0,not stereotype
+d_1905_01,1,1,1,stereotype
+d_1420_01,0,0,0,not stereotype
+d_2177_01,0,0,0,not stereotype
+d_649_01,0,0,0,not stereotype
+d_1121_05,0,0,0,not stereotype
+d_11_05,0,0,0,not stereotype
+d_1460_03,0,0,0,not stereotype
+d_541_01,0,0,0,not stereotype
+d_2192_03,0,0,0,not stereotype
+d_570_01,0,0,0,not stereotype
+d_475_01,1,1,0,not stereotype
+d_1847_01,0,0,0,not stereotype
+d_2075_03,0,0,1,stereotype
+d_1628_03,0,0,0,not stereotype
+d_1568_01,1,1,1,stereotype
+d_2432_03,0,0,0,not stereotype
+d_1885_02,1,1,1,stereotype
+d_2120_02,0,0,0,not stereotype
+d_450_01,0,0,1,stereotype
+d_2055_01,1,1,1,stereotype
+d_1768_01,0,0,0,not stereotype
+d_427_01,0,0,0,not stereotype
+d_2141_02,0,0,0,not stereotype
+d_1287_01,0,0,0,not stereotype
+d_1769_01,1,1,1,stereotype
+d_1574_01,0,0,0,not stereotype
+d_680_02,0,0,0,not stereotype
+d_2036_01,1,1,1,stereotype
+d_1677_02,0,0,0,not stereotype
+d_125_03,0,0,0,not stereotype
+d_1082_01,0,0,0,not stereotype
+d_161_02,0,0,0,not stereotype
+d_853_06,0,0,0,not stereotype
+d_154_01,0,0,0,not stereotype
+d_1097_01,0,0,0,not stereotype
+d_485_01,0,0,0,not stereotype
+d_1456_02,0,0,0,not stereotype
+d_1984_01,1,1,1,stereotype
+d_2492_01,1,1,0,not stereotype
+d_614_02,1,1,1,stereotype
+d_395_01,0,0,0,not stereotype
+d_1796_01,0,0,0,not stereotype
+d_1340_12,0,0,0,not stereotype
+d_964_02,0,0,0,not stereotype
+d_240_08,0,0,0,not stereotype
+d_2215_02,1,1,1,stereotype
+d_1325_02,0,0,0,not stereotype
+d_896_02,0,0,0,not stereotype
+d_0_01,0,0,0,not stereotype
+d_1067_01,0,0,0,not stereotype
+d_1463_01,1,1,1,stereotype
+d_1539_01,0,0,0,not stereotype
+d_678_02,1,1,1,stereotype
+d_72_04,0,0,0,not stereotype
+d_2390_03,0,0,0,not stereotype
+d_881_01,1,1,0,not stereotype
+d_1069_01,1,1,1,stereotype
+d_1659_01,1,1,0,not stereotype
+d_2508_01,0,0,0,not stereotype
+d_1568_03,0,0,1,stereotype
+d_43_01,0,0,0,not stereotype
+d_745_02,0,0,0,not stereotype
+d_2047_03,0,0,0,not stereotype
+d_1262_01,0,0,0,not stereotype
+d_72_06,0,0,0,not stereotype
+d_1198_02,1,1,1,stereotype
+d_1776_01,0,0,0,not stereotype
+d_1637_01,0,0,0,not stereotype
+d_1500_02,0,0,0,not stereotype
+d_1149_06,0,0,0,not stereotype
+d_2192_07,0,0,0,not stereotype
+d_1189_16,1,1,1,stereotype
+d_1941_01,0,0,0,not stereotype
+d_1044_01,0,0,0,not stereotype
+d_534_02,0,0,0,not stereotype
+d_2166_02,0,0,0,not stereotype
+d_2373_01,1,1,1,stereotype
+d_1726_03,0,0,0,not stereotype
+d_2182_03,0,0,0,not stereotype
+d_710_03,0,0,0,not stereotype
+d_1989_03,0,0,0,not stereotype
+d_2111_05,1,1,1,stereotype
+d_654_01,1,1,1,stereotype
+d_2223_02,0,0,0,not stereotype
+d_313_02,1,1,0,not stereotype
+d_1506_02,0,0,0,not stereotype
+d_2249_02,1,1,1,stereotype
+d_1157_01,1,1,1,stereotype
+d_569_01,0,0,1,stereotype
+d_1985_15,0,0,0,not stereotype
+d_738_03,0,0,0,not stereotype
+d_1647_03,0,0,0,not stereotype
+d_768_01,0,0,0,not stereotype
+d_2060_03,1,1,1,stereotype
+d_351_03,0,0,0,not stereotype
+d_2447_01,1,1,1,stereotype
+d_789_04,0,0,0,not stereotype
+d_992_01,0,0,0,not stereotype
+d_762_04,1,1,1,stereotype
+d_466_01,1,1,0,not stereotype
+d_101_02,0,0,0,not stereotype
+d_1697_03,0,0,1,stereotype
+d_167_03,0,0,0,not stereotype
+d_949_02,0,0,0,not stereotype
+d_107_02,0,0,0,not stereotype
+d_831_01,0,0,0,not stereotype
+d_100_01,0,0,1,stereotype
+d_274_01,0,0,0,not stereotype
+d_1326_02,0,0,0,not stereotype
+d_45_02,0,0,0,not stereotype
+d_1963_01,0,0,0,not stereotype
+d_1478_03,0,0,0,not stereotype
+d_1930_01,0,0,0,not stereotype
+d_2073_02,0,0,0,not stereotype
+d_2232_03,0,0,0,not stereotype
+d_2064_02,1,1,1,stereotype
+d_954_02,0,0,0,not stereotype
+d_1627_01,0,0,0,not stereotype
+d_311_01,0,0,0,not stereotype
+d_244_01,0,0,0,not stereotype
+d_647_01,0,0,1,stereotype
+d_361_01,1,1,0,not stereotype
+d_1155_01,1,1,1,stereotype
+d_2462_02,1,1,1,stereotype
+d_2313_01,1,1,0,not stereotype
+d_1612_01,0,0,0,not stereotype
+d_1107_06,0,0,0,not stereotype
+d_1931_01,0,0,0,not stereotype
+d_599_02,0,0,0,not stereotype
+d_80_03,0,0,0,not stereotype
+d_2218_03,0,0,0,not stereotype
+d_1292_01,0,0,0,not stereotype
+d_15_02,0,0,0,not stereotype
+d_78_05,0,0,0,not stereotype
+d_2499_04,0,0,0,not stereotype
+d_1342_03,1,1,1,stereotype
+d_1995_02,0,0,0,not stereotype
+d_942_03,0,0,0,not stereotype
+d_1313_01,1,1,1,stereotype
+d_972_13,0,0,0,not stereotype
+d_2297_01,1,1,1,stereotype
+d_2025_05,0,0,0,not stereotype
+d_1826_02,1,1,1,stereotype
+d_2132_02,1,1,1,stereotype
+d_1430_08,0,0,0,not stereotype
+d_652_02,1,1,1,stereotype
+d_1640_02,0,0,0,not stereotype
+d_1830_07,0,0,0,not stereotype
+d_473_01,0,0,0,not stereotype
+d_2323_01,1,1,0,not stereotype
+d_1766_02,1,1,0,not stereotype
+d_458_02,0,0,0,not stereotype
+d_1910_01,0,0,0,not stereotype
+d_1697_04,0,0,0,not stereotype
+d_175_03,1,1,0,not stereotype
+d_2241_01,0,0,0,not stereotype
+d_1180_02,0,0,0,not stereotype
+d_1776_02,1,1,1,stereotype
+d_1431_01,0,0,0,not stereotype
+d_2086_01,0,0,0,not stereotype
+d_705_02,0,0,0,not stereotype
+d_991_01,0,0,0,not stereotype
+d_1464_04,1,1,0,not stereotype
+d_398_01,0,0,0,not stereotype
+d_1118_06,1,1,0,not stereotype
+d_1943_02,0,0,0,not stereotype
+d_2220_01,0,0,0,not stereotype
+d_576_04,0,0,0,not stereotype
+d_2087_05,0,0,0,not stereotype
+d_168_03,0,0,0,not stereotype
+d_2138_02,0,0,0,not stereotype
+d_165_02,0,0,0,not stereotype
+d_1021_02,1,1,0,not stereotype
+d_1606_01,0,0,0,not stereotype
+d_585_01,1,1,1,stereotype
+d_2042_02,1,1,0,not stereotype
+d_1603_03,0,0,0,not stereotype
+d_1290_01,0,0,0,not stereotype
+d_1323_12,1,1,0,not stereotype
+d_1357_03,0,0,0,not stereotype
+d_1034_02,1,1,1,stereotype
+d_2343_04,0,0,0,not stereotype
+d_865_04,0,0,0,not stereotype
+d_918_02,0,0,0,not stereotype
+d_381_01,1,1,0,not stereotype
+d_627_01,0,0,0,not stereotype
+d_655_04,0,0,1,stereotype
+d_1407_02,0,0,1,stereotype
+d_194_03,0,0,0,not stereotype
+d_65_06,0,0,0,not stereotype
+d_171_01,0,0,0,not stereotype
+d_970_03,0,0,0,not stereotype
+d_1913_01,0,0,0,not stereotype
+d_2083_01,0,0,1,stereotype
+d_2298_03,0,0,0,not stereotype
+d_1799_02,1,1,0,not stereotype
+d_1782_01,0,0,0,not stereotype
+d_2061_03,1,1,1,stereotype
+d_65_01,0,0,0,not stereotype
+d_841_01,0,0,0,not stereotype
+d_1840_01,1,1,1,stereotype
+d_1725_03,0,0,0,not stereotype
+d_1145_01,1,1,1,stereotype
+d_2228_04,0,0,0,not stereotype
+d_2171_01,1,1,0,not stereotype
+d_30_04,0,0,0,not stereotype
+d_814_02,1,1,1,stereotype
+d_1983_01,0,0,0,not stereotype
+d_141_02,1,1,0,not stereotype
+d_338_02,0,0,0,not stereotype
+d_2418_01,1,1,1,stereotype
+d_215_02,0,0,0,not stereotype
+d_2072_02,0,0,0,not stereotype
+d_218_03,0,0,0,not stereotype
+d_2542_03,0,0,0,not stereotype
+d_2212_01,0,0,0,not stereotype
+d_1703_01,1,1,0,not stereotype
+d_1255_04,0,0,0,not stereotype
+d_67_01,0,0,0,not stereotype
+d_2116_01,1,1,1,stereotype
+d_417_01,0,0,0,not stereotype
+d_2221_04,1,1,0,not stereotype
+d_1316_03,0,0,0,not stereotype
+d_23_02,1,1,0,not stereotype
+d_95_01,0,0,0,not stereotype
+d_2182_02,0,0,0,not stereotype
+d_1199_03,0,0,0,not stereotype
+d_1816_01,0,0,0,not stereotype
+d_972_17,0,0,0,not stereotype
+d_908_01,0,0,1,stereotype
+d_972_18,0,0,0,not stereotype
+d_1884_01,0,0,0,not stereotype
+d_1672_04,1,1,0,not stereotype
+d_2429_01,0,0,1,stereotype
+d_1469_03,0,0,0,not stereotype
+d_780_01,0,0,0,not stereotype
+d_1254_01,0,0,0,not stereotype
+d_1439_01,0,0,0,not stereotype
+d_1689_01,0,0,0,not stereotype
+d_670_02,0,0,0,not stereotype
+d_2540_01,1,1,1,stereotype
+d_455_01,0,0,0,not stereotype
+d_64_04,0,0,0,not stereotype
+d_1373_01,0,0,0,not stereotype
+d_1646_01,1,1,0,not stereotype
+d_872_04,0,0,0,not stereotype
+d_2165_01,0,0,0,not stereotype
+d_1888_01,1,1,0,not stereotype
+d_1154_01,0,0,0,not stereotype
+d_693_05,0,0,0,not stereotype
+d_1316_01,0,0,0,not stereotype
+d_1713_01,0,0,0,not stereotype
+d_117_03,0,0,0,not stereotype
+d_1655_03,1,1,0,not stereotype
+d_1110_01,0,0,0,not stereotype
+d_653_07,1,1,1,stereotype
+d_972_03,0,0,0,not stereotype
+d_35_01,1,1,0,not stereotype
+d_407_01,1,1,0,not stereotype
+d_1855_01,0,0,0,not stereotype
+d_853_09,0,0,0,not stereotype
+d_1690_01,1,1,1,stereotype
+d_37_02,0,0,0,not stereotype
+d_797_01,1,1,1,stereotype
+d_1130_02,0,0,0,not stereotype
+d_1985_22,0,0,0,not stereotype
+d_1241_01,0,0,0,not stereotype
+d_33_01,0,0,0,not stereotype
+d_482_01,1,1,1,stereotype
+d_595_02,1,1,1,stereotype
+d_2066_02,1,1,0,not stereotype
+d_1919_02,0,0,0,not stereotype
+d_2047_02,1,1,1,stereotype
+d_598_05,1,1,1,stereotype
+d_1484_02,0,0,0,not stereotype
+d_1388_01,0,0,0,not stereotype
+d_1170_01,1,1,0,not stereotype
+d_168_09,0,0,0,not stereotype
+d_1724_01,0,0,0,not stereotype
+d_1337_01,0,0,0,not stereotype
+d_854_03,0,0,0,not stereotype
+d_707_01,0,0,0,not stereotype
+d_2353_05,1,1,0,not stereotype
+d_1137_02,0,0,0,not stereotype
+d_1189_08,1,1,0,not stereotype
+d_967_06,0,0,1,stereotype
+d_2421_02,0,0,0,not stereotype
+d_1661_02,0,0,0,not stereotype
+d_150_08,0,0,0,not stereotype
+d_188_03,0,0,0,not stereotype
+d_1514_04,0,0,1,stereotype
+d_2264_01,0,0,0,not stereotype
+d_2059_02,0,0,0,not stereotype
+d_1648_02,1,1,0,not stereotype
+d_886_02,0,0,0,not stereotype
+d_1741_02,0,0,0,not stereotype
+d_1473_01,1,1,1,stereotype
+d_1120_01,1,1,0,not stereotype
+d_1035_01,1,1,1,stereotype
+d_290_01,0,0,0,not stereotype
+d_700_02,0,0,0,not stereotype
+d_1922_01,1,1,1,stereotype
+d_330_01,0,0,0,not stereotype
+d_455_03,1,1,1,stereotype
+d_2088_02,0,0,0,not stereotype
+d_501_01,0,0,1,stereotype
+d_1243_04,0,0,0,not stereotype
+d_2467_04,0,0,0,not stereotype
+d_584_01,1,1,0,not stereotype
+d_2493_03,1,1,1,stereotype
+d_2244_01,0,0,0,not stereotype
+d_1799_01,0,0,0,not stereotype
+d_1147_01,1,1,0,not stereotype
+d_568_03,1,1,1,stereotype
