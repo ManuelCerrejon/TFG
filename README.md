@@ -10,8 +10,6 @@ El repositorio está estructurado en varias carpetas y archivos, cada uno de los
 
 - Enmsemble: Contiene el script utilizado para realizar los ensemble de los modelos obtenidos por anotador.
 
-- Modelos Guardados: Carpeta donde se almacenan los modelos entrenados durante el desarrollo del proyecto, permitiendo su reutilización y evaluación posterior sin necesidad de reentrenamiento.
-
 - Conjuntos de Datos: Contiene los conjuntos de datos utilizados para el entrenamiento y la evaluación de los modelos, así como scripts para su preprocesamiento.
 
 - Predicciones: Carpeta donde se almacenan las predicciones de los diferentes modelos.
